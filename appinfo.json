@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "ID_KEY": 4,
+        "LATITUDE_KEY": 1,
+        "LONGITUDE_KEY": 2,
+        "MESSAGE_KEY": 3,
+        "MSGTYPE_KEY": 0,
+        "NUMBEROFLIKES_KEY" : 5,
+        "NUMBEROFCOMMENTS_KEY" : 6
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "anson@apparentetch.com",
+    "longName": "Yebble - Pebble Yik Yak client",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png",
+                "file": "images/icon.png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Yebble",
+    "uuid": "39d6ae9a-6d35-4652-aa93-5f63a76e4719",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
